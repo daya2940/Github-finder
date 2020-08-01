@@ -376,6 +376,11 @@ table th {
   margin-right: 0.6rem;
 }
 
+.link-center {
+  display: flex;
+  justify-content: center;
+}
+
 /* Mobile Styles */
 @media (max-width: 700px) {
   .hide-sm {
